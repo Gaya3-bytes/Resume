@@ -2,6 +2,6 @@
 
 download all the three files/image into the same folder
 
-Open GResume.html
+Open GResume.html using a web browser
 
 Click on the hyperlink "Gayathri Resume" to view the resume
