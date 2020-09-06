@@ -1,6 +1,6 @@
 # Resume
 
-download all the three files/image into the same folder
+download the ZIP folder
 
 Open GResume.html using a web browser
 
